@@ -1,0 +1,12 @@
+D:\Projects\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.exe.config
+D:\Projects\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.exe
+D:\Projects\ProiectFIS\ProiectFIS\bin\Debug\ProiectFIS.pdb
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.AssemblyReference.cache
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Form1.resources
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Main.resources
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.Properties.Resources.resources
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.GenerateResource.cache
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.csproj.CoreCompileInputs.cache
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.exe
+D:\Projects\ProiectFIS\ProiectFIS\obj\Debug\ProiectFIS.pdb
